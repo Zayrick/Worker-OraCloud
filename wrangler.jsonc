@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "web--liuren",
+  "name": "web-liuren",
   "main": "src/index.js",
   "compatibility_date": "2025-08-02",
   "compatibility_flags": [
